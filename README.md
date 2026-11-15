@@ -3,12 +3,13 @@
 Agent Skills that teach a coding assistant the [FastAIAgent SDK](https://github.com/fastaifoundry/fastaiagent-sdk),
 so it writes `fastaiagent` code against the real API instead of guessing one from older versions.
 
-Built from SDK **1.101.0**. The same skills ship inside the SDK
+Built from SDK **1.102.0**. The same skills ship inside the SDK
 (`fastaiagent skills install`); this repository is a generated copy for tools that install from GitHub.
 
 ## Skills
 
 - `fastaiagent-sdk`
+- `fastaiagent-studio`
 
 ## Install
 
